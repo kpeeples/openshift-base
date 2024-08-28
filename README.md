@@ -3,7 +3,7 @@
 ## Single Node Openshift with ACS/AI
 Note: Builds on a KVM Host and uses a Bastion/Support, Bootstrap and Control/SNO VM
 
-```
+```xml
 <network>  
   <name>openshift4</name>  
   <forward mode='nat'>  
