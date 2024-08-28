@@ -3,7 +3,7 @@
 ## Single Node Openshift with ACS/AI
 Note: Builds on a KVM Host and uses a Bastion/Support, Bootstrap and Control/SNO VM
 
-`
+>
 <network>  
   <name>openshift4</name>  
   <forward mode='nat'>  
@@ -16,7 +16,7 @@ Note: Builds on a KVM Host and uses a Bastion/Support, Bootstrap and Control/SNO
   <ip address='192.168.100.1' netmask='255.255.255.0'>  
   </ip>  
 </network>  
-`
+
 
 ## References
 https://computingforgeeks.com/how-to-install-kvm-on-rhel-8/
